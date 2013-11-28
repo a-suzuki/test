@@ -9,6 +9,7 @@ public class ProfileTest {
 	@Test
 	public void test() {
 		fail("まだ実装されていません");
+		//
 	}
 
 }
